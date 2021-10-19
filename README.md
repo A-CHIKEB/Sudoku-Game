@@ -1,7 +1,7 @@
 # Solve Sudoku-Game
 Sudoku Game 🎮 with Java console
 
-![image description](./images/mathematical-puzzle-glyph-icon-sudoku-2316808.jpeg)
+![image description](./images/sudokuBoard.png)
 
 ### Tools and Languages Used
 ```
